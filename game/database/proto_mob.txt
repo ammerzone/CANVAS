@@ -1,0 +1,20 @@
+id;name;level;rank;skill;race;immune;resistance;vit;int;str;dex;dmg_min;dmg_max;TP;def;reg_time;reg_val;gold_min;gold_max;exp
+
+/*ID:					Kennnr. des Mobs*/
+/*NAME: 				Ingame- & Dateiname*/
+/*LEVEL: 				Lvl des Mobs*/
+/*RANK:					Stufe des Mobs*/
+/*SKILL:				AGGR,NOMOVE,FÄHIGKEITEN(Poison, Revive, Stun, Slow, Critical, Pierce, NUMB[1-76])*/
+/*RACE:					Rasse des Mobs (ANIMAL,HUMAN,ORC,ESOTERIC,UNDEAD,DEVIL,ICE,INSECT,DESERT,FIRE,)*/
+/*IMMUNE:				Immun gegen (STUN,SLOW,POISON)*/
+/*RESISTANCE:			Wiederstande gegen (SWORD,TWOHAND,DAGGER,BOW,BELL,FAN)*/
+/*VIT, INT, STR, DEX:	Statuswerte*/
+/*DMG_MIN, DMG_MAX:		Schaden (Min / Max)*/
+/*TP:					Levenspunkte*/
+/*DEF:					Verteidigungspunkte*/
+/*ATTACKSPEED: 			Angriffsgeschwindigkeit*/
+/*SPEED:				Laufgeschwindigkeit*/
+/*REG_TIME: 			Regeneration (Zeitimpuls) */
+/*REG_VAL:				Regeneration (Prozentual) */
+/*GOLD_MIN,GOLD_MAX: 	Drop an Gold*/
+/*EXP:					Exp-Punkte bei Kill*/

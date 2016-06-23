@@ -1,0 +1,4 @@
+lvl;exp
+
+/*lvl: Level*/
+/*EXP: benötigte erfahrung*/

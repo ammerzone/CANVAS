@@ -1,0 +1,1 @@
+xKoord;yKoord;xVerschiebung;yVerschiebung;typ;breite;laenge;hoehe

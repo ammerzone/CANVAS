@@ -1,0 +1,12 @@
+id;name;type;effect;value;hit;max_hit;range;duration;cooldown
+
+/*ID: 		Kennnr. des Skills*/
+/*NAME: 	Name des Skills*/
+/*TYPE:		Typ des Skills (BUFF,SELFBUFF,NEAR,DISTANCE)*/
+/*EFFECT:	Effekt des Skills (PHYSICAL,MENTAL,SPEED,REFLECT,ABSORB,DAMAGE,MENTALDAMAGE,POISON,STUN,SLOW)*/
+/*VALUE:	Wert des Skills (Formel oder Fixwert) ->Level-, Skillung-, Schadensabhängig*/
+/*HIT:		Art des Treffers (CRITICAL,PIERCE,NONE)*/
+/*MAX_HIT:	Wieviele Gegner getroffen werden können (1=einzelschaden)*/
+/*RANGE:	Reichweite (0=Nur direkter Kontakt)*/
+/*DURATION:	Dauer des Effekts (0=wird nur ausgeführt)*/
+/*COOLDOWN:	Cooldownzeit (Formel oder Fix)*/

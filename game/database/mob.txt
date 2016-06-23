@@ -1,0 +1,1 @@
+xPos;yPos;xVers;yVers;Blickrichtung;TP;MP;Speed;Type

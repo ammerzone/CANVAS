@@ -1,0 +1,6 @@
+id;name;action;quest
+
+/*ID:		Kennnummer des NPC*/
+/*NAME:		Ingame- & Dateiname des NPC*/
+/*ACTION:	Aktionen bei anklicken (SHOP,TALK["...","..."],TELEPORT)*/
+/*QUESTS:	Quest & Teilquest die über diesen NPC laufen (QUESTNAME,QUESTNAME,...)*/

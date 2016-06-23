@@ -1,0 +1,19 @@
+xPos;yPos
+level
+exp
+speed
+TP;MP;Ausdauer
+vit;int;str;dex
+//Schaden (physisch, magisch, Angriffsgeschwindigkeit, Zaubergeschwindigkeit)
+//Verteidigung (physisch, magisch, gift, feuer, wind, blitz)
+//Offensiv (Kritischer Treffer, Durchbohrender Treffer, Ohnmacht, Verlangsamen, Vergiften)
+//Defensiv (Abw. Ohnmacht, Abw. Verlangsamen, Nahkampftreffer reflektieren, Angriff abbocken, Pfeil ausweichen, TP-absorbieren, MP-absorbieren)
+//Defensiv (Schwertverteidigung, Zweihandverteidigung, Dolchverteidigung, Glockenverteidigung, Fächerverteidigung, Pfeilwiederstand)
+fertigkeit1;stufe;
+fertigkeit2;stufe;
+fertigkeit3;stufe;
+fertigkeit4;stufe;
+fertigkeit5;stufe;
+fertigkeit6;stufe;
+fertigkeit7;stufe;
+fertigkeit8;stufe;

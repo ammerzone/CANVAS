@@ -1,0 +1,16 @@
+id;name;type;size;stapelbar;verkaufpreis;kaufpreis;upgradeZuId;upgradeKostenId;bonus(1-5)_id;bonus(1-5)_value
+
+/*ID:				Kennnr. des Items*/
+/*NAME:				Ingame- & Imagename*/
+/*TYPE: 			Waffen, Rüstung, ...*/
+/*SIZE: 			GRÖßE*/
+/*STABELBAR: 		Binary (0,1)*/
+/*VERKAUFSPREIS		*/
+/*KAUFPREIS			*/
+/*UPGRADE: 			Zu welchen item wird es (0=nicht upgradeable)*/
+/*UPGRADEKOSTENID: 	Extra Tabelle mit jeweiligen Upgradekosten / -items*/
+/*BONUS 1: 			Angriffsgeschwindigkeit*/
+/*BONUS 2: 			Physischer Angriffswert*/
+/*BONUS 3: 			Mentaler Angrifsswert*/
+/*BONUS 4:			reserviert für Bonus 1*/
+/*BONUS 5:			reserviert für Bonus 2*/

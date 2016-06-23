@@ -1,0 +1,11 @@
+id;item_id;player_id;window;position;number;bonus(1-7)_id;bonus(1-7)_value;sockel(1-3)_id;sockel(1-3)_value
+
+/*ID:				Kennnr. des Items*/
+/*ITEM_ID:			ID des Items aus PROTO_ITEM*/
+/*PLAYER_ID:		ID des Besitzers aus PLAYER*/
+/*WINDOW:			Ort des Items (INVENTORY,EQUIPED,STORAGE,ITEMSHOP,SHOP,TRADE)*/
+/*POSITION:			Position im Inventar*/
+/*NUMBER:			Anzahl der Items*/
+/*BONUS 1,2,3,4,5: 	Additive Bonis*/
+/*BONUS 6,7: 		6/7 Boni*/
+/*SOCKEL 1,2,3: 	Steine*/

@@ -1,0 +1,9 @@
+xPos;yPos;xVers;yVers;Blickrichtung;Type;Empire
+
+/*XPOS:				x-Koordinate*/
+/*YPOS: 			y-Koordinate*/
+/*XVERS: 			x-Verschiebung (-256 bin 256)*/
+/*YVERS: 			y-Verschiebung (-256 bis 256)*/
+/*BLICKRICHTUNG: 	1-8 (1:Nord, 2:NordNordOst, ..., 8:NordNordWest*/
+/*TYPE:				Kennnummer in PROTO_NPC*/
+/*EMPIRE:			Reichszugehörtigkeit (0=Neutral)*/
